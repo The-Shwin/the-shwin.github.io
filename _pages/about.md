@@ -1,3 +1,13 @@
+<html>
+  <head>
+    <script type="text/javascript">
+      var host = "theshwin.com";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script> 
+  </head>
+</html>
+
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
