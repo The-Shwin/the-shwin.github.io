@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi, I'm Ashwin"
-excerpt: "FFFFFFFFFFFFFFFFF"
+excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
