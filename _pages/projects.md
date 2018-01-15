@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some selected projects that I have done from courses and research. 
+Here are some selected projects.
 
 Computer Vision
 ======
