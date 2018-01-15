@@ -17,27 +17,46 @@ Experience
 ======
 * Fall 2016 - present: Undergraduate Research Assistant
   * Johns Hopkins University
-  * Duties included: ---
+  * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
   * Supervisor: Professor Marin Kobilarov
 
 * Summer 2017: Undergraduate Research Assistant
   * Florida International University
-  * Duties included: ---
+  * Applied advanced statistical techniques such as principal component analysis to improve hyper parameter selection for use in augmented terrain-based navigation by robots. Developed a method for assigning weights to water parameters while reducing correlation. Used these selection and weighting techniques to develop an algorithm for reducing autocorrelation to create data maps for underwater localization by combining selected parameters and their weights.
   * Supervisor: Professor Leonardo Bobadilla
  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C++
+  * C
+  * Python
+  * Matlab
+  * VHDL
+  * C#
+  * Java
+  * HTML & CSS
+* Programming Skills
+  * Robotic Operating System (ROS)
+  * Computer Vision
+  * Deep Learning
+  * Real-time Operating Systems
+  * Git
+  * Torch
+* Engineering Skills
+  * FPGA Synthesis (in VHDL)
+  * Arduino (Uno, Due, Arduino IDE, etc.)
+  * Circuits (design, wiring, theory, etc.)
+  * Electronics Lab equipments (oscilloscope, function generator, multimeters, etc.)
+  * Computer-Aided Design
+  * Soldering
+* Other Skills
+  * Research (Scientific/Engineering)
+  * Presentations/Communication
+  * Proposal/Grant Writing
+  * Technical and Creative Writing
+  * Teamwork
+  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 
