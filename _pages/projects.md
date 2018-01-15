@@ -7,16 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-Siamese Face Matching
+Computer Vision
 ======
+* Siamese Face Matching
+
+* Augmented Webcam Experience
 
 
-Obstacle-Avoiding Car
+Robot Sensors & Actuators
 ======
+* Obstacle-Avoiding Car
 
 
-FPGA Logic Analyzer 
+FPGA Synthesis Lab
 ======
-
+* FPGA-based Logic Analyzer
 
   
