@@ -46,8 +46,8 @@ Independent Study/Research at JHU LCSR: Autonomous Systems, Control, and Optimiz
   * Implemented in C++ with Robotic Operating System (ROS). 
   * Wrote a ROS package to send the position data of the Razer Hydra Controller and used kinematic transforms to transform the position of the Hydra controller to the frame of the end-effector of the robotic arm. 
   * This allowed the user to move their Hydra controller and have the robotic arm mimic the same movement, resulting in intuitive teleoperation of the arm without a complicated interface.
-  * [Video Demo](https://drive.google.com/open?id=0Bx6eCdlCBKvvWEhiOW5EaWxNc1E)
+[![Hydra Teleoperation](/images/Video1.PNG)](https://drive.google.com/open?id=0Bx6eCdlCBKvvWEhiOW5EaWxNc1E)
 * FPV Motion-based Teleoperation 
   * To further build on the motion-based teleoperation, I setup an FPV camera and used the DJI Lightbridge to send the video signal to an FPV headset. Now the user could operate the robotic arm via the Razer Hydra without being directly next to it to see what the arm was doing. 
   * I did not have the setup to get a good splitscreen demo of the user and the arm, but I have short video showing some of the FPV view, user operation, and arm movement. 
-  * [Video Demo](https://drive.google.com/file/d/1CmU1g7jDb5s4es92wabqm8_3vDx1AL4h/view)
+[![FPV Teleoperation](/images/Video2.PNG)](https://drive.google.com/file/d/1CmU1g7jDb5s4es92wabqm8_3vDx1AL4h/view)
