@@ -18,4 +18,4 @@ redirect_from:
   </head>
 </html>
 
-Welcome to my website. It has information about my projects, coursework, and CV. If you click the r&eacutesum&eacute menu option, you can download a .pdf version of my  r&eacutesum&eacute. Please feel free to contact me if you have any questions or comments. 
+Welcome to my website. Please feel free to contact me if you have any questions or comments.

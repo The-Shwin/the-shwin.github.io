@@ -9,10 +9,10 @@
 
 locale                   : "en-US"
 title                    : "Ashwin Bhat"
-title_separator          : "-"
+title_separator          : "|"
 name                     : &name "Ashwin Bhat"
 description              : &description "personal description"
-url                      : https://theshwin.com #the-shwin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://theshwin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 enforce_ssl              : theshwin.com
 repository               : "the-shwin/the-shwin.github.io"
@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+  #path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -86,7 +86,7 @@ author:
   location         : "Baltimore, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : abhat4@jhu.edu
   uri              :
   bitbucket        :
   codepen          :
