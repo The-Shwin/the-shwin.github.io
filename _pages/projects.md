@@ -11,7 +11,7 @@ Here are some selected projects.
 
 Computer Vision
 ======
-* <a href="https://github.com/The-Shwin/Siamese-Face-Matching">Siamese Face Matching()</a>
+* <a href="https://github.com/The-Shwin/Siamese-Face-Matching">Siamese Face Matching</a>
   * Implemented in Python. 
   * Using PyTorch, I developed a siamese network that can process pairs of images and detect if they are a match or not. 
   * There were two versions I had for training, one used binary cross-entropy and the other used constrastive loss. In my github repository the file named p1a uses the BCE loss for training, while p1b trains models using contrastive loss. The input to the siamese network would be a text a file with a list of image pairs and whether or not a given pair was a match (used to reduce loss for training and determine accuracy when testing models). 
