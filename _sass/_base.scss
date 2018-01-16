@@ -160,7 +160,7 @@ ul li,
 ol li {
   margin-bottom: 0.5em;
   a {
-    color: inherit;
+    color: #02e9ff;
     &:focus {
       @extend %tab-focus;
     }
@@ -176,7 +176,7 @@ li ul,
 li ol {
   margin-top: 0.5em;
   a {
-    color: inherit;
+    color: #02e9ff;
     &:focus {
       @extend %tab-focus;
     }
