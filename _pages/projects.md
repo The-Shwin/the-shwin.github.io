@@ -49,7 +49,7 @@ Independent Study/Research at JHU LCSR: Autonomous Systems, Control, and Optimiz
   * [Video Demo](https://drive.google.com/open?id=0Bx6eCdlCBKvvWEhiOW5EaWxNc1E)
 <html>
   <embed src="https://drive.google.com/open?id=0Bx6eCdlCBKvvWEhiOW5EaWxNc1E" allowfullscreen="true" width="425" height="344">
-</html
+</html>
 
 * FPV Motion-based Teleoperation 
   * To further build on the motion-based teleoperation, I setup an FPV camera and used the DJI Lightbridge to send the video signal to an FPV headset. Now the user could operate the robotic arm via the Razer Hydra without being directly next to it to see what the arm was doing. 
