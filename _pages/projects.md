@@ -22,14 +22,14 @@ Computer Vision
   * In order to prevent the face from interfering with the hand, we implemented a cascading object detector to detect the eyes of the face every 90 frames, and we used the the Kanade-Lucas-Tomasi feature tracking algorithm to track the salient features around the eyes in between every re-detection of the eyes. 
   * This kept the computational cost rather low so we could run eye tracking and finger tracking simultaneously.  
   * In addition, we used the location of the eyes to add filters to the user's face based on the number of fingers they were holding up, forming gesture based interaction. 
-  * [Paper](https://theshwin.com/files/cvproject.pdf) - Written for the final project of my Computer Vision course. 
+  * <ins>[Paper](https://theshwin.com/files/cvproject.pdf)</ins> - Written for the final project of my Computer Vision course. 
   
 Robot Sensors & Actuators
 ======
 * [Obstacle-Avoiding Car](https://github.com/mattkae/Obstabot)
   * Implemented in Arduino.
   * Built a small robotic car that uses and Arduino Uno and ultrasonic sensors to detect and avoid obstacles. Also attached a Bluetooth module to the Arduino Uno that lets a user communicate with the car over Bluetooth. The user can switch between autonomous control, where the car drives around and avoids obstacles, and manual control, where they override obstacle avoidance and can send directions to the car via an Android phone.
-  * [Report](https://theshwin.com/files/rsaproject.pdf) - This project was built for a final project for the Robot Sensors & Actuators course that I took.
+  * <ins>[Report](https://theshwin.com/files/rsaproject.pdf)</ins> - This project was built for a final project for the Robot Sensors & Actuators course that I took.
 
 FPGA Synthesis Lab
 ======
