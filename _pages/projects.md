@@ -29,6 +29,7 @@ Robot Sensors & Actuators
 * [Obstacle-Avoiding Car](https://github.com/mattkae/Obstabot)
   * Implemented in Arduino.
   * Built a small robotic car that uses and Arduino Uno and ultrasonic sensors to detect and avoid obstacles. Also attached a Bluetooth module to the Arduino Uno that lets a user communicate with the car over Bluetooth. The user can switch between autonomous control, where the car drives around and avoids obstacles, and manual control, where they override obstacle avoidance and can send directions to the car via an Android phone.
+
 [Report](https://theshwin.com/files/rsaproject.pdf) - This project was built for a final project for the Robot Sensors & Actuators course that I took.
 
 FPGA Synthesis Lab
