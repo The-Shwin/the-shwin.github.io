@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       text-decoration: underline;
@@ -187,7 +187,7 @@
 
   a {
     color: #fff;
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
@@ -271,7 +271,7 @@
   border-radius: $border-radius;
 
   &:hover {
-    text-decoration: none;
+    text-decoration: underline;
     color: $link-color-hover;
   }
 }
@@ -359,7 +359,7 @@
   margin: 0;
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
@@ -368,7 +368,7 @@
   margin: 0;
 
   a {
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
@@ -390,7 +390,7 @@
 
   a {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
   }
 }
 
