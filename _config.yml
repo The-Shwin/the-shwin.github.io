@@ -9,9 +9,9 @@
 
 locale                   : "en-US"
 title                    : "Ashwin Bhat"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Ashwin Bhat"
-description              : &description "personal description"
+description              : &description "I am currently a senior at Johns Hopkins University."
 url                      : https://theshwin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 enforce_ssl              : theshwin.com
@@ -251,7 +251,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
