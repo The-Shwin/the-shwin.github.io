@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : minimal-mistakes-jekyll
 minimal_mistakes_skin    : "mint"
 locale                   : "en-US"
 title                    : "Ashwin Bhat"
