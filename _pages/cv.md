@@ -12,6 +12,9 @@ Education
 * B.S. in Computer Engineering, Johns Hopkins University, 2018
   * Major: Computer Engineering
   * Minors: Robotics, Applied Mathematics & Statistics
+  * Groups: Robotics Club, Institute of Electrical and Electronics Engineers, Association for Computing Machinery, Campus Admissions (tour guide)
+* International Baccalaureate Diploma, John A. Ferguson Senior High School, 2014
+  * Groups: STEM Club/SECME, Mu Alpha Theta (Math Honor Society), Science Honor Society, National Honor Society, Spanish Honor Society
 
 Experience
 ======
@@ -24,7 +27,7 @@ Experience
   * Florida International University
   * Applied advanced statistical techniques such as principal component analysis to improve hyper parameter selection for use in augmented terrain-based navigation by robots. Developed a method for assigning weights to water parameters while reducing correlation. Used these selection and weighting techniques to develop an algorithm for reducing autocorrelation to create data maps for underwater localization by combining selected parameters and their weights.
   * Supervisor: Professor Leonardo Bobadilla
- 
+
 Skills
 ======
 * Programming Languages
@@ -56,7 +59,3 @@ Skills
   * Proposal/Grant Writing
   * Technical and Creative Writing
   * Teamwork
-  
-
-  
-
