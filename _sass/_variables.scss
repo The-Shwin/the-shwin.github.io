@@ -15,22 +15,22 @@ $indent-var                 : 1.3em;
 /* system typefaces */
 $serif                      : Miso, sans-serif;
 $sans-serif                 : Miso, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : Miso, monospace, sans-serif;;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$helvetica                  : Miso, sans-serif;
 
 /* serif typefaces */
-$georgia                    : Georgia, serif;
-$times                      : Times, serif;
-$bodoni                     : "Bodoni MT", serif;
-$calisto                    : "Calisto MT", serif;
-$garamond                   : Garamond, serif;
+$georgia                    : Miso, sans-serif;
+$times                      : Miso, sans-serif;
+$bodoni                     : Miso, sans-serif;
+$calisto                    : Miso, sans-serif;
+$garamond                   : Miso, sans-serif;
 
-$global-font-family         : Miso;
-$header-font-family         : Miso;
-$caption-font-family        : Miso;
+$global-font-family         : Miso, sans-serif;
+$header-font-family         : Miso, sans-serif;
+$caption-font-family        : Miso, sans-serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
