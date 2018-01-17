@@ -31,7 +31,7 @@
   ol {
     padding: 0;
     list-style: none;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
 
     @include breakpoint($large) {
       @include span(10 of 12 last);
@@ -127,7 +127,7 @@
     float: left;
     width: 50%;
     font-family: Miso, sans-serif;
-    font-size: $type-size-5;
+    font-size: $type-size-4;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
@@ -263,7 +263,7 @@
     a {
       margin: 0;
       padding: 10px 20px;
-      font-size: $type-size-5;
+      font-size: $type-size-4;
 
       &:hover {
         color: $masthead-link-color-hover;
@@ -349,7 +349,7 @@
   margin: 0;
   padding: 0.5rem 1rem;
   font-family: Miso, sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
   font-weight: bold;
 }
 
@@ -358,7 +358,7 @@
   margin: 0.5rem 0;
   padding: 0.5rem 0;
   font-family: Miso, sans-serif;
-  font-size: $type-size-6;
+  font-size: $type-size-5;
   font-weight: bold;
   text-transform: uppercase;
   border-bottom: 1px solid $border-color;
@@ -381,7 +381,7 @@
 
   .nav__title {
     color: #fff;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
@@ -399,7 +399,7 @@
     display: block;
     padding: 0.5rem 1rem;
     color: $gray;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
