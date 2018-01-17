@@ -13,24 +13,24 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Miso, sans-serif;
-$sans-serif                 : Miso, sans-serif;
-$monospace                  : Miso, sans-serif;;
+$serif                      : 'miso-regular', sans-serif;
+$sans-serif                 : 'miso-regular', sans-serif;
+$monospace                  : 'miso-regular', sans-serif;;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : Miso, sans-serif;
+$helvetica                  : 'miso-regular', sans-serif;
 
 /* serif typefaces */
-$georgia                    : Miso, sans-serif;
-$times                      : Miso, sans-serif;
-$bodoni                     : Miso, sans-serif;
-$calisto                    : Miso, sans-serif;
-$garamond                   : Miso, sans-serif;
+$georgia                    : 'miso-regular', sans-serif;
+$times                      : 'miso-regular', sans-serif;
+$bodoni                     : 'miso-regular', sans-serif;
+$calisto                    : 'miso-regular', sans-serif;
+$garamond                   : 'miso-regular', sans-serif;
 
-$global-font-family         : Miso, sans-serif;
-$header-font-family         : Miso, sans-serif;
-$caption-font-family        : Miso, sans-serif;
+$global-font-family         : 'miso-regular', sans-serif;
+$header-font-family         : 'miso-regular', sans-serif;
+$caption-font-family        : 'miso-regular', sans-serif;
 
 /* type scale */
 $type-size-1                : 2.75em;    // ~44px
