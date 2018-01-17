@@ -47,23 +47,23 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #4484ce;
+$gray                       : #d9d9d9;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #d9d9d9;
-$background-color           : #d9d9d9;
+$body-color                 : #4484ce;
+$background-color           : #4484ce;
 $code-background-color      : #f9cf00;
 $code-background-color-dark : #f19f4d;
-$text-color                 : $dark-gray;
+$text-color                 : $gray;
 $border-color               : $lighter-gray;
 
 $primary-color              : #f19f4d;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
+$success-color              : #f19f4d;
+$warning-color              : #f19f4d;
+$danger-color               : #f19f4d;
 $info-color                 : #f19f4d;
 
 /* brands */
@@ -94,8 +94,7 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
+$masthead-link-color-hover  : $primary-color;
 
 /*
    Breakpoints
