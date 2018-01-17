@@ -18,11 +18,11 @@ redirect_from:
   </head>
 </html>
 
-Welcome to my website. Please feel free to contact me if you have any questions or comments. Currently seeking full-time employmeny opportunities! 
+Welcome to my website. Please feel free to contact me if you have any questions or comments. Currently seeking full-time employment opportunities! 
 
 About Me
 ======
-I am currently a senior at Johns Hopkins University. I am primarily interested in computer engineering and robotics. I enjoy working with both hardware and software, which is why I decided to major in computer engineering. I am seeking full-time employment opportunities for after I graduate in May.
+I am currently a senior at Johns Hopkins University and I am graduating in May. I am primarily interested in computer engineering and robotics. I enjoy working with both hardware and software.
 
 I like learning new skills in computer engineering and playing with new technology. Some of my other interests are listed [here](https://theshwin.com/fun_facts/).
 
