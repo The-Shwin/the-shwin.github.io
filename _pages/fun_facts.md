@@ -9,10 +9,15 @@ Hi again! Here are some of my interests outside of technology, work, and academi
 I enjoy reading, watching TV/movies, and playing board games. I also like a good cold brew coffee.
 
 Favorite Type of Meme: Doggo and Pupper Memes
+
 Favorite Book Series: Harry Potter
+
 Favorite Movie Series: Star Wars
+
 Favorite Movie (of the last few years/non-Star Wars): La La Land
+
 Favorite Animated Comedy Shows: Rick and Morty, South Park
+
 Favorite Comedy Shows: How I Met Your Mother, The Office
 
 I just started watching Game of Thrones (I know, I'm pretty late to this one).
