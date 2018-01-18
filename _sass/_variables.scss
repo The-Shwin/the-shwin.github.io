@@ -22,24 +22,24 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : 'miso-regular', sans-serif;
-$sans-serif                 : 'miso-regular', sans-serif;
-$monospace                  : 'miso-regular', sans-serif;;
+$serif                      : 'miso-regular', Miso, Arial, sans-serif;
+$sans-serif                 : 'miso-regular', Miso, Arial, sans-serif;
+$monospace                  : 'miso-regular', Miso, Arial, sans-serif;;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
-$helvetica                  : 'miso-regular', sans-serif;
+$helvetica                  : 'miso-regular', Miso, Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : 'miso-regular', sans-serif;
-$times                      : 'miso-regular', sans-serif;
-$bodoni                     : 'miso-regular', sans-serif;
-$calisto                    : 'miso-regular', sans-serif;
-$garamond                   : 'miso-regular', sans-serif;
+$georgia                    : 'miso-regular', Miso, Arial, sans-serif;
+$times                      : 'miso-regular', Miso, Arial, sans-serif;
+$bodoni                     : 'miso-regular', Miso, Arial, sans-serif;
+$calisto                    : 'miso-regular', Miso, Arial, sans-serif;
+$garamond                   : 'miso-regular', Miso, Arial, sans-serif;
 
-$global-font-family         : 'miso-regular', sans-serif;
-$header-font-family         : 'miso-regular', sans-serif;
-$caption-font-family        : 'miso-regular', sans-serif;
+$global-font-family         : 'miso-regular', Miso, Arial, sans-serif;
+$header-font-family         : 'miso-regular', Miso, Arial, sans-serif;
+$caption-font-family        : 'miso-regular', Miso, Arial, sans-serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
