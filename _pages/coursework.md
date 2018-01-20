@@ -42,3 +42,11 @@ Mathematics/Applied Mathematics & Statistics Courses
 * Calculus III
 * Calculus II
 * Calculus I
+
+Humanities
+======
+* Contemporary Theatre & Film
+* World Prehistory: An Anthropological Perspective
+* Spanish II
+* Fiction/Poetry Writing 2
+* Fiction/Poetry Writing 1
