@@ -59,3 +59,4 @@ Skills
   * Proposal/Grant Writing
   * Technical and Creative Writing
   * Teamwork
+  * Carpentry (Woodshop)
