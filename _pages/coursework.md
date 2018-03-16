@@ -44,6 +44,7 @@ Mathematics/Applied Mathematics & Statistics Courses
 
 Humanities
 ======
+* Fiction & Nonfiction
 * Contemporary Theatre & Film
 * World Prehistory: An Anthropological Perspective
 * Spanish II
