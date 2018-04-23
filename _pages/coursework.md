@@ -20,7 +20,6 @@ Electrical and Computer Engineering Courses
 Computer Science Courses
 ======
 * Machine Learning: Deep Learning (currently taking)
-* Artificial Intelligence (currently taking)
 * Computer Vision
 * Algorithms for Sensor-Based Robotics
 * Data Structures
@@ -45,6 +44,7 @@ Mathematics/Applied Mathematics & Statistics Courses
 
 Humanities
 ======
+* Fiction & Nonfiction
 * Contemporary Theatre & Film
 * World Prehistory: An Anthropological Perspective
 * Spanish II
