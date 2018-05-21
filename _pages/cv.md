@@ -11,14 +11,14 @@ Education
 ======
 * B.S. in Computer Engineering, Johns Hopkins University, 2018
   * Major: Computer Engineering
-  * Minors: Robotics, Applied Mathematics & Statistics
+  * Minors: Robotics, Applied Mathematics & Statistics, Computer Science
   * Groups: Robotics Club, Institute of Electrical and Electronics Engineers, Association for Computing Machinery, Campus Admissions (tour guide)
 * International Baccalaureate Diploma, John A. Ferguson Senior High School, 2014
   * Groups: STEM Club/SECME, Mu Alpha Theta (Math Honor Society), Science Honor Society, National Honor Society, Spanish Honor Society
 
 Experience
 ======
-* Fall 2016 - present: Undergraduate Research Assistant
+* Fall 2016 - Spring 2018: Undergraduate Research Assistant
   * Johns Hopkins University
   * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
   * Supervisor: Professor Marin Kobilarov
@@ -36,16 +36,17 @@ Skills
   * Python
   * Matlab
   * VHDL
-  * C#
   * Java
   * HTML & CSS
 * Programming Skills
   * Robotic Operating System (ROS)
   * Computer Vision
   * Deep Learning
+  * Machine Learning
   * Real-time Operating Systems
-  * Git
-  * Torch
+  * Git, Mercurial
+  * PyTorch
+  * scikit-learn
 * Engineering Skills
   * FPGA Synthesis (in VHDL)
   * Arduino (Uno, Due, Arduino IDE, etc.)
