@@ -57,6 +57,7 @@ Skills
   * Circuits (design, wiring, theory, etc.)
   * Electronics Lab equipments (oscilloscope, function generator, multimeters, etc.)
   * Computer-Aided Design
+  * Printed Circuit Board (PCB) Design 
   * Soldering
 * Other Skills
   * Research (Scientific/Engineering)
