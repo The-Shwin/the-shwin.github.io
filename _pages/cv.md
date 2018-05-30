@@ -9,7 +9,8 @@ author_profile: true
 
 Education
 ======
-* B.S. in Computer Engineering, Johns Hopkins University, 2018
+* B.S. in Computer Engineering, Johns Hopkins University
+  * Graduated May 2018
   * Major: Computer Engineering
   * Minors: Robotics, Applied Mathematics & Statistics, Computer Science
   * Groups: Robotics Club, Institute of Electrical and Electronics Engineers, Association for Computing Machinery, Campus Admissions (tour guide)
