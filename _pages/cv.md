@@ -18,6 +18,10 @@ Education
 
 Experience
 ======
+* Summer 2018: Electrical Engineering Intern
+  * Galen Robotics
+  * Working on electronics for a surgical robot.
+  
 * Fall 2016 - Spring 2018: Undergraduate Research Assistant
   * Johns Hopkins University
   * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
