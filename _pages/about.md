@@ -22,6 +22,6 @@ Welcome to my website. Please feel free to contact me if you have any questions 
 
 About Me
 ======
-I am a senior at Johns Hopkins University and I am graduating in May. I am primarily interested in computer engineering and robotics. I enjoy working with both hardware and software.
+I recently finished my undergraduate studies at Johns Hopkins University in the Department of Electrical and Computer Engineering. I am primarily interested in computer engineering and robotics. I enjoy working with both hardware and software.
 
-I like learning new skills in computer engineering and playing with new technology. Some of my other interests are listed [here](https://theshwin.com/fun_facts/).
+I like learning new skills and playing with new technology. Some of my other interests are listed [here](https://theshwin.com/fun_facts/).
