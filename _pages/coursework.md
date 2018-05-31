@@ -9,7 +9,8 @@ author_profile: true
 
 Electrical and Computer Engineering Courses
 ======
-* Electronics Design Lab (currently taking)
+* Electronics Design Lab
+* Advanced ECE Team Project
 * FPGA Synthesis Lab
 * Mastering Electronics/Circuits
 * Electrical and Computer Engineering Lab
@@ -19,7 +20,7 @@ Electrical and Computer Engineering Courses
 
 Computer Science Courses
 ======
-* Machine Learning: Deep Learning (currently taking)
+* Machine Learning: Deep Learning
 * Computer Vision
 * Algorithms for Sensor-Based Robotics
 * Data Structures
@@ -34,7 +35,7 @@ Robotics Courses (non-ECE or CS)
 
 Mathematics/Applied Mathematics & Statistics Courses
 ======
-* Data Mining (currently taking)
+* Data Mining
 * Probability & Statistics
 * Linear Algebra and Differential Equations
 * Discrete Mathematics
