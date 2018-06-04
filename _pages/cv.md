@@ -9,7 +9,8 @@ author_profile: true
 
 Education
 ======
-* B.S. in Computer Engineering, Johns Hopkins University, 2018
+* B.S. in Computer Engineering, Johns Hopkins University
+  * Graduated May 2018
   * Major: Computer Engineering
   * Minors: Robotics, Applied Mathematics & Statistics, Computer Science
   * Groups: Robotics Club, Institute of Electrical and Electronics Engineers, Association for Computing Machinery, Campus Admissions (tour guide)
@@ -18,6 +19,10 @@ Education
 
 Experience
 ======
+* Summer 2018: Electrical Engineering Intern
+  * Galen Robotics
+  * Working on electronics for a surgical robot.
+  
 * Fall 2016 - Spring 2018: Undergraduate Research Assistant
   * Johns Hopkins University
   * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
@@ -53,6 +58,7 @@ Skills
   * Circuits (design, wiring, theory, etc.)
   * Electronics Lab equipments (oscilloscope, function generator, multimeters, etc.)
   * Computer-Aided Design
+  * Printed Circuit Board (PCB) Design 
   * Soldering
 * Other Skills
   * Research (Scientific/Engineering)
