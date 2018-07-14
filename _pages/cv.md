@@ -44,7 +44,7 @@ Skills
   * Java
   * HTML & CSS
 * Programming Skills
-  * Robotic Operating System (ROS)
+  * Robot Operating System (ROS)
   * Computer Vision
   * Deep Learning
   * Machine Learning
