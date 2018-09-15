@@ -19,9 +19,12 @@ Education
 
 Experience
 ======
+* Fall 2018 - present: Computer Engineer
+  * Galen Robotics
+  * Working on electronics for cooperatively controlled surgical robotics platform. Designing printed circuit boards for internal electronics and testing of electrical systems. Designing RFID antennas and testing RFID systems. 
 * Summer 2018: Electrical Engineering Intern
   * Galen Robotics
-  * Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards for internal electronics and testing of electrical systems.
+  * Worked on electronics for a cooperatively controlled surgical robotics platform. Designed printed circuit boards for internal electronics and testing of electrical systems.
   
 * Fall 2016 - Spring 2018: Undergraduate Research Assistant
   * Johns Hopkins University
