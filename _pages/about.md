@@ -18,10 +18,12 @@ redirect_from:
   </head>
 </html>
 
-Welcome to my website. Please feel free to contact me if you have any questions or comments. I am currently seeking full-time employment opportunities! 
+Welcome to my website. Please feel free to contact me if you have any questions or comments. New project content coming soon! 
 
 About Me
 ======
 I recently finished my undergraduate studies at Johns Hopkins University in the Department of Electrical and Computer Engineering. I am primarily interested in computer engineering and robotics. I enjoy working with both hardware and software.
+
+I am currently working as a Computer Engineer at Galen Robotics, a surgical robotics startup. 
 
 I like learning new skills and playing with new technology. Some of my other interests are listed [here](https://theshwin.com/fun_facts/).
