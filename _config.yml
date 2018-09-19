@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ashwin Bhat"
 title_separator          : "-"
 name                     : &name "Ashwin Bhat"
-description              : &description "I am currently a senior at Johns Hopkins University."
+description              : &description "Recently graduated from Johns Hopkins University. Working as a Computer Engineer at Galen Robotics."
 url                      : https://theshwin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 enforce_ssl              : theshwin.com
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ashwin Bhat"
   avatar           : "temp_profile.PNG"
-  bio              : "Recently graduated from Johns Hopkins University with a BS in Computer Engineering"
+  bio              : "Recently graduated from Johns Hopkins University with a BS in Computer Engineering. Working as a Computer Engineer at Galen Robotics."
   location         : "Baltimore, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
