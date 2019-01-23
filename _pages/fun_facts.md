@@ -8,7 +8,6 @@ Here are some of my interests outside of technology, work, and academics.
 
 I enjoy reading, watching TV/movies, and playing board games. I also like a good cold brew coffee.
 
-Favorite Type of Meme: Doggo/Pupper Memes 
 
 Favorite Book Series: Harry Potter
 
@@ -18,3 +17,4 @@ Favorite Animated Comedy Shows: Rick and Morty, South Park
 
 Favorite Comedy Shows: How I Met Your Mother, The Office, Parks and Rec
 
+Favorite Games: Fortnite, Black Ops 4, Age of Empires 2
