@@ -27,7 +27,7 @@ Experience
   * Worked on electronics for a cooperatively controlled surgical robotics platform. Designed printed circuit boards for internal electronics and testing of electrical systems.
   
 * Fall 2016 - Spring 2018: Undergraduate Research Assistant
-  * Johns Hopkins University - Autonomous Systems, Control, and Optimization Lab
+  * Johns Hopkins University - [Autonomous Systems, Control, and Optimization Lab](https://asco.lcsr.jhu.edu/)
   * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
   * Supervisor: Professor Marin Kobilarov
 
