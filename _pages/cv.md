@@ -21,7 +21,7 @@ Experience
 ======
 * Fall 2018 - present: Computer Engineer
   * Galen Robotics
-  * Designing and testing RFID antennas and systems. Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards (PCBs) for internal electronics. Creating verification tests for electrical subsystems of robot platform. Programming sensor-based error checks, robot kinematics/frame transformations, and virtual fixtures/trajectory features. PID tuning for smooth control of cooperatively controlled robot platform.
+  * Supervising team of electrical engineering interns/contractors. Designing and testing RFID antennas and systems. Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards (PCBs) for internal electronics. Creating verification tests for electrical subsystems of robot platform. Selecting components and leading electrical subsystem design. 
 * Summer 2018: Electrical Engineering Intern
   * Galen Robotics
   * Worked on electronics for a cooperatively controlled surgical robotics platform. Designed printed circuit boards for internal electronics and testing of electrical systems.
