@@ -6,14 +6,6 @@
    Typography
    ========================================================================== */
 
- @font-face {
-     font-family: 'miso-regular';
-     src: url(theshwin.com/files/miso-regular-webfont.woff) format('woff'),
-          url(theshwin.com/files/miso-regular-webfont.woff2) format('woff2');
-     font-weight: normal;
-     font-style: normal;
-
- }
 
 $doc-font-size              : 16;
 
@@ -22,24 +14,24 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Roboto-Medium, Arial, sans-serif;
-$sans-serif                 : Roboto-Medium, Arial, sans-serif;
-$monospace                  : Roboto-Medium, Arial, sans-serif;
+$serif                      : 'Roboto', Roboto, sans-serif;
+$sans-serif                 : 'Roboto', Roboto, sans-serif;
+$monospace                  : 'Roboto', Roboto, sans-serif;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : Roboto-Medium,$sans-serif;
 $helvetica                  : 'miso-regular', Miso, Arial, sans-serif;
 
 /* serif typefaces */
-$georgia                    : Roboto-Medium, Arial, sans-serif;
-$times                      : Roboto-Medium, Arial, sans-serif;
-$bodoni                     : Roboto-Medium, Arial, sans-serif;
-$calisto                    : Roboto-Medium, Arial, sans-serif;
-$garamond                   : Roboto-Medium, Arial, sans-serif;
+$georgia                    : 'Roboto', Roboto, sans-serif;
+$times                      : 'Roboto', Roboto, sans-serif;
+$bodoni                     : 'Roboto', Roboto, sans-serif;
+$calisto                    : 'Roboto', Roboto, sans-serif;
+$garamond                   : 'Roboto', Roboto, sans-serif;
 
-$global-font-family         : Roboto-Medium, Arial, sans-serif;
-$header-font-family         : Roboto-Medium, Arial, sans-serif;
-$caption-font-family        : Roboto-Medium, Arial, sans-serif;
+$global-font-family         : 'Roboto', Roboto, sans-serif;
+$header-font-family         : 'Roboto', Roboto, sans-serif;
+$caption-font-family        : 'Roboto', Roboto, sans-serif;
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
 $type-size-2                : 1.953em;  // ~31.248px
