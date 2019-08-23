@@ -70,3 +70,14 @@ Skills
   * Technical and Creative Writing
   * Teamwork
   * Carpentry (Woodshop)
+
+Publications
+======
+* Puleo, O., Sevimli, Y., Levi, D., Bhat, A., Saunders, D., Taylor, R. (2019, June). Quantifying the Benefits of Robotic Assistance in Various Microsurgical Procedures. Paper presented at the Hamlyn Symposium in Medical Robotics, London, UK. doi: 10.31256/HSMR2019.8
+  * [Posted here on my site pulled from Hamlyn Proceeding's 2019](http://theshwin.com/files/HSMR2019-Benchtop.pdf)
+* Sevimli, Y., Levi, D., Bhat, A., Puleo, O., Taylor, R., Saunders, D. (2019, June). From Benchtop to Operating Room: The Evolution of the Galen Platform. Paper presented at the Hamlyn Symposium in Medical Robotics, London, UK. doi: 10.31256/HSMR2019.8
+  * [Posted here on my site pulled from Hamlyn Proceeding's 2019](https://theshwin.com/files/HSMR2019-Benchtop.pdf)
+* Debrupa Lahiri, Rupak Dua, Cheng Zhang, Ignacio de Socarraz-Novoa, Ashwin Bhat, Sharan Ramaswamy, and Arvind Agarwal
+ACS Applied Materials & Interfaces 2012 4 (4), 2234-2241
+DOI: 10.1021/am300244s
+  * [Link to Paper](https://pubs.acs.org/doi/abs/10.1021/am300244s)
