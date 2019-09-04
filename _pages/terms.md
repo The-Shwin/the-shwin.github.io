@@ -4,6 +4,17 @@ title: "Terms and Privacy Policy"
 modified: 2016-06-06
 ---
 
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <script type="text/javascript">
+      var host = "theshwin.com/terms/";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+  </head>
+</html>
+
 {% include base_path %}
 {% include toc %}
 

@@ -4,6 +4,17 @@ permalink: /projects/
 author_profile: true
 ---
 
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <script type="text/javascript">
+      var host = "theshwin.com/projects/";
+      if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
+  </head>
+</html>
+
 {% include base_path %}
 
 Here are some selected projects.
