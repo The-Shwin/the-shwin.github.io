@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ashwin Bhat"
 title_separator          : "-"
 name                     : &name "Ashwin Bhat"
-description              : &description "Recently graduated from Johns Hopkins University. Working as a Computer Engineer at Galen Robotics."
+description              : &description "Computer Engineer at Galen Robotics. Technology Enthusiast"
 url                      : https://theshwin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 enforce_ssl              : theshwin.com
