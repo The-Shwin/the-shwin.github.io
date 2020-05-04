@@ -17,10 +17,7 @@ author_profile: true
 
 {% include base_path %}
 
-Here are some selected projects.
-New Projects
-======
-### Game Boy Pocket Handheld Emulator 
+## Game Boy Pocket Handheld Emulator 
 * In my spare time, I am designing a circuit board that will fit in a Gameboy Pocket shell. It will control the buttons and be used for interfacing a display and Raspberry Pi Zero W. This is a work in progress.
 * More details can be found on my [Github Repo](https://github.com/The-Shwin/GBPocketEmulator)
 * [![Board Image](/images/TopView-3May2020.PNG)](https://github.com/The-Shwin/GBPocketEmulator/blob/master/TopView-3May2020.PNG)
