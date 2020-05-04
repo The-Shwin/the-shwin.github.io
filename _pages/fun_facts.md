@@ -28,4 +28,4 @@ Favorite Animated Comedy Shows: Rick and Morty, South Park
 
 Favorite Comedy Shows: Parks and Rec, How I Met Your Mother
 
-Video Games I Play: Fortnite, Black Ops 4, Age of Empires 2, Apex Legends, Star Wars Jedi: Fallen Order
+Video Games I Play: Valorant, Fortnite, Black Ops 4, Age of Empires 2, Apex Legends, Star Wars Jedi: Fallen Order
