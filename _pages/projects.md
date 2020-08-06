@@ -17,11 +17,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Game Boy Pocket Handheld Emulator 
-* In my spare time, I am designing a circuit board that will fit in a Gameboy Pocket shell. It will control the buttons and be used for interfacing a display and Raspberry Pi Zero W. 
-* This is a work in progress, began project in May of 2020. 
+## Game Boy Pocket Handheld Emulator
+* In my spare time, I am designing a circuit board that will fit in a Gameboy Pocket shell. It will control the buttons and be used for interfacing a display and Raspberry Pi Zero W.
+* This is a work in progress, began project in May of 2020.
 * More details can be found on my [Github Repo](https://github.com/The-Shwin/GBPocketEmulator)
 * [![Board Image](/images/TopView-3May2020.PNG)](https://github.com/The-Shwin/GBPocketEmulator/blob/master/TopView-3May2020.PNG)
+
+## Text Adventure Game
+* In my spare time, I am writing a text adventure game in Python. This is in early stages.
+* More details can be found on my [Github Repo](https://github.com/The-Shwin/Textsplore)
 
 Projects from Undergrad
 ======

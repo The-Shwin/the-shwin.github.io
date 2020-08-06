@@ -30,13 +30,13 @@ Education
 
 Experience
 ======
-* Fall 2018 - present: Computer Engineer
+* Fall 2018 - present: Software Engineer/Lead Electrical Engineer
   * Galen Robotics
-  * Supervising team of electrical engineering interns/contractors. Designing and testing RFID antennas and systems. Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards (PCBs) for internal electronics. Creating verification tests for electrical subsystems of robot platform. Selecting components and leading electrical subsystem design. 
+  * Supervising team of electrical engineering interns/contractors. Designing and testing RFID antennas and systems. Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards (PCBs) for internal electronics. Creating verification tests for electrical subsystems of robot platform. Selecting components and leading electrical subsystem design.
 * Summer 2018: Electrical Engineering Intern
   * Galen Robotics
   * Worked on electronics for a cooperatively controlled surgical robotics platform. Designed printed circuit boards for internal electronics and testing of electrical systems.
-  
+
 * Fall 2016 - Spring 2018: Undergraduate Research Assistant
   * Johns Hopkins University - [Autonomous Systems, Control, and Optimization Lab](https://asco.lcsr.jhu.edu/)
   * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
@@ -72,7 +72,7 @@ Skills
   * Circuits (design, wiring, theory, etc.)
   * Electronics Lab equipments (oscilloscope, function generator, multimeters, etc.)
   * Computer-Aided Design
-  * Printed Circuit Board (PCB) Design 
+  * Printed Circuit Board (PCB) Design
   * Soldering
 * Other Skills
   * Research (Scientific/Engineering)
