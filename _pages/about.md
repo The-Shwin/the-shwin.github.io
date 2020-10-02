@@ -23,7 +23,7 @@ Welcome to my website. Please feel free to contact me if you have any questions 
 
 About Me
 ======
-I am currently working as an Electrical and Software Engineer at Galen Robotics, a surgical robotics startup.
+I am currently working as a Software Development Engineer at Medly Pharmacy.
 
 I finished my undergraduate studies at Johns Hopkins University in the Department of Electrical and Computer Engineering in May of 2018. I am interested in computer engineering and robotics. I enjoy working with both hardware and software.
 
