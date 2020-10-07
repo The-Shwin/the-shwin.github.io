@@ -30,7 +30,11 @@ Education
 
 Experience
 ======
-* Fall 2018 - present: Software Engineer/Lead Electrical Engineer
+* October 2020 - present: Software Engineer
+  * Medly Pharmacy  
+* October 2020 - present: Electrical Engineer (contract)
+  * Galen Robotics
+* September 2018 - September 2020: Software Engineer/Lead Electrical Engineer
   * Galen Robotics
   * Supervising team of electrical engineering interns/contractors. Designing and testing RFID antennas and systems. Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards (PCBs) for internal electronics. Creating verification tests for electrical subsystems of robot platform. Selecting components and leading electrical subsystem design.
 * Summer 2018: Electrical Engineering Intern
