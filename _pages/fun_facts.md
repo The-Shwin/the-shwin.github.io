@@ -17,7 +17,8 @@ author_profile: true
 
 Here are some of my interests outside of technology, work, and academics.
 
-I enjoy reading, watching TV/movies, and playing board games. I also like a good cold brew coffee.
+I enjoy reading, watching TV/movies, and playing board games. I also like a good cold brew coffee. 
+I am a mechanical keyboard enthusiast. I recently made my first custom keyboard build. Navigate [here](https://theshwin.com/keyboards/) if you are interested in seeing pictures.
 
 
 Favorite Book Series: Harry Potter
@@ -26,6 +27,6 @@ Favorite Movie Series: Star Wars
 
 Favorite Animated Comedy Shows: Rick and Morty, South Park
 
-Favorite Comedy Shows: Parks and Rec, How I Met Your Mother
+Favorite Comedy Shows: Parks and Rec, Brooklyn 99
 
-Video Games I Play: Valorant, Fortnite, Black Ops 4, Age of Empires 2, Apex Legends, Star Wars Jedi: Fallen Order
+Video Games I Play: Valorant, Rust
