@@ -25,8 +25,6 @@ Favorite Book Series: Harry Potter
 
 Favorite Movie Series: Star Wars
 
-Favorite Animated Comedy Shows: Rick and Morty, South Park
+Favorite TV Shows: Psych, Brooklyn 99
 
-Favorite Comedy Shows: Parks and Rec, Brooklyn 99
-
-Video Games I Play: Valorant, Rust
+Video Games (currently playing): Valorant, Rust
