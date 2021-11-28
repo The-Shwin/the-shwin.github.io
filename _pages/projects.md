@@ -16,8 +16,6 @@ author_profile: true
 </html>
 
 {% include base_path %}
-Projects from Undergrad
-======
 ## Computer Vision
 * Siamese Network Face Matching
   * Implemented in Python.
