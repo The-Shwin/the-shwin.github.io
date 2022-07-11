@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ashwin Bhat"
 title_separator          : "-"
 name                     : &name "Ashwin Bhat"
-description              : &description "Software Development Engineer at Medly Pharmacy. Technology Enthusiast"
+description              : &description "Software Development Engineer at Twitch. Technology Enthusiast"
 url                      : https://theshwin.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 enforce_ssl              : theshwin.com
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ashwin Bhat"
   avatar           : "temp_profile.PNG"
-  bio              : "Working as a Software Development Engineer at Medly Pharmacy."
-  location         : "Miami, FL"
+  bio              : "Working as a Software Development Engineer II at Twitch."
+  location         : "US"
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=U1kC1uYAAAAJ&hl=en&oi=ao
   email            : ashwin@shwin.tech
