@@ -25,13 +25,19 @@ Education
   * Major: Computer Engineering
   * Minors: Robotics, Applied Mathematics & Statistics, Computer Science
   * Groups: Robotics Club, Institute of Electrical and Electronics Engineers, Association for Computing Machinery, Campus Admissions (tour guide)
-* International Baccalaureate Diploma, John A. Ferguson Senior High School, 2014
-  * Groups: STEM Club/SECME, Mu Alpha Theta (Math Honor Society), Science Honor Society, National Honor Society, Spanish Honor Society
 
 Experience
 ======
-* October 2020 - present: Software Engineer
-  * [Medly Pharmacy](https://medly.com/en-us)  
+* June 2022 - present: Software Engineer II
+  * [Twitch](twitch.tv)
+  * Fullstack development on various services on the ads creator experience team (Typescript, Go, AWS infrastructure).
+* October 2020 - June 2022: Software Engineer II
+  * [Medly Pharmacy](https://medly.com/en-us) 
+  * Software Engineer I (promoted to II in October 2021)
+  * Full‑stack development creating internal products for Medly’s patient experience team (Typescript, React, Redux,
+AWS, Postgres).
+  * Developing new pharmacy tools to streamline pharmacy operations and replace legacy third party software.
+  * Planning architecture and databases for backend services (AWS Serverless, Postgres). 
 * October 2020 - present: Electrical Engineer (contract)
   * [Galen Robotics](https://www.galenrobotics.com)
 * September 2018 - September 2020: Software Engineer/Lead Electrical Engineer

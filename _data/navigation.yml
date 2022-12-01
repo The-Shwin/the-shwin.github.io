@@ -10,8 +10,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "CV (PDF)"
-    url: /files/cv.pdf
-
   - title: "R&eacutesum&eacute"
     url: /files/resume.pdf

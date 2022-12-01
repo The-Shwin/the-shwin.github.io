@@ -15,7 +15,7 @@ author_profile: true
   </head>
 </html>
 
-Here are some of my interests outside of technology, work, and academics.
+Here are some of my interests outside of work.
 
 I enjoy reading, watching TV/movies, and playing board games. I also like a good cold brew coffee. 
 I am a mechanical keyboard enthusiast. I recently made my first custom keyboard build. Navigate [here](https://theshwin.com/keyboards/) if you are interested in seeing pictures.
