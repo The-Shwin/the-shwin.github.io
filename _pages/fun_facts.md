@@ -27,4 +27,6 @@ Favorite Movie Series: Star Wars
 
 Favorite TV Shows: Psych, Brooklyn 99
 
-Video Games (currently playing): Valorant, Rust
+Favorite Game Series: Pokémon 
+
+Video Games (currently playing): Counter-Strike 2, Rust, Valorant
