@@ -30,50 +30,68 @@ Experience
 ======
 * June 2022 - present: Software Engineer II
   * [Twitch](twitch.tv)
-  * Fullstack development on various services on the ads creator experience team (Typescript, Go, AWS infrastructure).
+  * Full-stack development on various operational and business-related microservices for scheduling, running, and checking settings for ads on the ads creator experience team (Typescript, Go, AWS infrastructure).
+  * Led the migration, upgrades, and code refactoring of service with 500 million calls per day to new infrastructure resulting in zero downtime and cut costs in half (Go, AWS services, Redis, RPC, GraphQL).
+  * Championed observability improvements in team's services via methodology/tooling and identified weak points in alarm coverage that led to 65% reduction in false alarms and helped identify systematic errors in reporting metrics.
+  * Led the engineering design for a measurement and experimentation plan on a new ad running insights feature.
+  * Contributed to the backend design and full-stack development of Ads Incentive Program which steadily increased ad running density among streamers by 28% YoY. Added frontend features and improvements for visibility of team's features on the Twitch website and drive increased ad supply.
+  * Worked on-call rotations that required coverage of 11 backend microservices and monitoring frontend availability.
 * October 2020 - June 2022: Software Engineer II
   * [Medly Pharmacy](https://medly.com/en-us) 
   * Software Engineer I (promoted to II in October 2021)
-  * Full‑stack development creating internal products for Medly’s patient experience team (Typescript, React, Redux,
-AWS, Postgres).
+  * Led full-stack design and development B2C products and internal web apps for collecting patient information and scheduling prescription delivery (Typescript, React/Redux, Node, AWS, Postgres, GraphQL).
+  * Continually added features and made bug fixes to internal web app, leading expansion of pharmacy software from two pharmacies to over 20 locations as the business grew.
+  * Implemented event-based architecture for processing incoming prescriptions and routing them to be serviced via internal tooling or direct to customer text messages.
   * Developing new pharmacy tools to streamline pharmacy operations and replace legacy third party software.
   * Planning architecture and databases for backend services (AWS Serverless, Postgres). 
 * October 2020 - present: Electrical Engineer (contract)
   * [Galen Robotics](https://www.galenrobotics.com)
 * September 2018 - September 2020: Software Engineer/Lead Electrical Engineer
   * Galen Robotics
-  * Supervising team of electrical engineering interns/contractors. Designing and testing RFID antennas and systems. Working on electronics for a cooperatively controlled surgical robotics platform. Designing printed circuit boards (PCBs) for internal electronics. Creating verification tests for electrical subsystems of robot platform. Selecting components and leading electrical subsystem design.
+  * Programmed motion trajectory constraints, sensor-based error checks, and logging features for a surgical robot (C++).
+  * Supervised team of electrical engineering interns/contractors. Mentored interns through iterative design and review process.
+  * Designed, built, and tested printed circuit boards and RFID antennas in electrical subsystems. Developed requirements and designed the electrical workings of two versions of the surgical robot.
+  * Implemented PID tuning for smooth motor control of the robot's 5 degrees of freedom.
+  * Created verification tests for electrical subsystems of robot platform. Selected components and led electrical subsystem design.
 * Summer 2018: Electrical Engineering Intern
   * Galen Robotics
   * Worked on electronics for a cooperatively controlled surgical robotics platform. Designed printed circuit boards for internal electronics and testing of electrical systems.
 
 * Fall 2016 - Spring 2018: Undergraduate Research Assistant
   * Johns Hopkins University - [Autonomous Systems, Control, and Optimization Lab](https://asco.lcsr.jhu.edu/)
-  * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
+  * Installed newer components including flight control systems, guidance, and computers on drones for motion/planning research. 
+  * Researched and implemented motion-based teleoperation for a robotic arm attached to a drone for use in object manipulation. Wrote packages to allow for control of a robotic arm via a Razer Hydra motion gaming controller. Implemented first person view teleoperation for aerial object manipulation.
   * Supervisor: Professor Marin Kobilarov
 
 * Summer 2017: Undergraduate Research Assistant
   * Florida International University
-  * Applied advanced statistical techniques such as principal component analysis to improve hyper parameter selection for use in augmented terrain-based navigation by robots. Developed a method for assigning weights to water parameters while reducing correlation. Used these selection and weighting techniques to develop an algorithm for reducing autocorrelation to create data maps for underwater localization by combining selected parameters and their weights.
+  * Applied advanced statistical techniques such as principal component analysis to improve hyper parameter selection for use in augmented terrain-based navigation by robots. 
+  * Developed a method for assigning weights to water parameters while reducing correlation. 
+  * Used these selection and weighting techniques to develop an algorithm for reducing autocorrelation to create data maps for underwater localization by combining selected parameters and their weights.
   * Supervisor: Professor Leonardo Bobadilla
 
 Skills
 ======
 * Programming Languages
+  * Python
+  * Typescript
+  * Go
   * C++
   * C
-  * Python
   * Matlab
-  * VHDL
   * Java
-  * HTML & CSS
+  * SQL
+  * Javascript
 * Programming Skills
+  * GraphQL
+  * Redis
+  * OpenCV
   * Robot Operating System (ROS)
   * Computer Vision
   * Deep Learning
   * Machine Learning
   * Real-time Operating Systems
-  * Git, Mercurial
+  * Git
   * PyTorch
   * scikit-learn
 * Engineering Skills
