@@ -44,7 +44,7 @@ Experience
   * Implemented event-based architecture for processing incoming prescriptions and routing them to be serviced via internal tooling or direct to customer text messages.
   * Developing new pharmacy tools to streamline pharmacy operations and replace legacy third party software.
   * Planning architecture and databases for backend services (AWS Serverless, Postgres). 
-* October 2020 - present: Electrical Engineer (contract)
+* October 2020 - May 2021: Electrical Engineer (contract)
   * [Galen Robotics](https://www.galenrobotics.com)
 * September 2018 - September 2020: Software Engineer/Lead Electrical Engineer
   * Galen Robotics
