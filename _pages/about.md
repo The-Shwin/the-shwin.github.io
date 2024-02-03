@@ -24,7 +24,7 @@ Welcome to my website. Please feel free to contact me if you have any questions 
 About Me
 ======
 I am currently working at Twitch.
-
-I finished my undergraduate studies at Johns Hopkins University in the Department of Electrical and Computer Engineering in May of 2018. I am interested in computer engineering and robotics. I enjoy working with both hardware and software.
+I am interested in robotics and space applications.
+I completed my undergraduate studies at Johns Hopkins University in the Department of Electrical and Computer Engineering in May of 2018. I enjoy working with both hardware and software.
 
 I like learning new skills and playing with cool technology. Some of my other interests are listed [here](https://theshwin.com/fun_facts/).
