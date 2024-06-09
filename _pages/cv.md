@@ -28,7 +28,11 @@ Education
 
 Experience
 ======
-* June 2022 - present: Software Engineer II
+* March 2024 - present: Software Engineer II
+  * [Amazon: Project Kuiper](https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper)
+  * Software development work on the Ground Systems Engineering team
+  * Developing infrastructure and software for monitoring and remediation of ground antenna units needed for control and transmission of signal to low earth orbit satellites.
+* June 2022 - March 2024: Software Engineer II
   * [Twitch](twitch.tv)
   * Full-stack development on various operational and business-related microservices for scheduling, running, and checking settings for ads on the ads creator experience team (Typescript, Go, AWS infrastructure).
   * Led the migration, upgrades, and code refactoring of service with 500 million calls per day to new infrastructure resulting in zero downtime and cut costs in half (Go, AWS services, Redis, RPC, GraphQL).

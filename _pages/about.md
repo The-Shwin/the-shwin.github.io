@@ -23,7 +23,7 @@ Welcome to my website. Please feel free to contact me if you have any questions 
 
 About Me
 ======
-I am currently working at Twitch.
+I am currently working at Amazon's Project Kuiper.
 I am interested in robotics and space applications.
 I completed my undergraduate studies at Johns Hopkins University in the Department of Electrical and Computer Engineering in May of 2018. I enjoy working with both hardware and software.
 
