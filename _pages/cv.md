@@ -31,7 +31,12 @@ Experience
 * March 2024 - present: Software Engineer II
   * [Amazon: Project Kuiper](https://www.aboutamazon.com/what-we-do/devices-services/project-kuiper)
   * Software development work on the Ground Systems Engineering team
-  * Developing infrastructure and software for monitoring and remediation of ground antenna units needed for control and transmission of signal to low earth orbit satellites.
+  * Pioneered monitoring and remediation services for the entire ground systems fleet of Kuiper's low earth orbit satellite internet constellation including failure detection during contacts, general site availability, automatic ticketing and monitoring, and visualization of contact metrics.
+  * Championed high standards of service-level agreements and designed self-detection of operational issues in the monitoring system leading to no operational issues during first production launch. 
+  * Led the development of stress tests and validated scaling/operational readiness for a 99.99% uptime and performance rate beyond multiple production launches. 
+  * Provided ground system support during Kuiper’s first production launch to determine antenna stability. 
+  * Enabled non-technical users to access programmatically analyzed ground contact and site availability data by developing an end to end data solution with an ETL flow for querying and visualizing telemetry. 
+  * Designed orchestration service for fine calibration of antenna control units across many sites and antennas via backend simulations.
 * June 2022 - March 2024: Software Engineer II
   * [Twitch](twitch.tv)
   * Full-stack development on various operational and business-related microservices for scheduling, running, and checking settings for ads on the ads creator experience team (Typescript, Go, AWS infrastructure).
